@@ -33,18 +33,18 @@ Anthropic AI • Azure NLP • Speechly • Payment APIs • Real-time Processin
 
 - **🔧 Subledger (2022–Present)**  
   - Built full-stack AI accounting platform (99.9% uptime)
-  - Integrated Anthropic AI to auto-classify transactions (75% manual work reduction)
+  - Helped to integrate Anthropic AI to auto-classify transactions (75% manual work reduction)
   - Optimized GraphQL APIs improving speed by 40%
 
 - **🌍 FITTS (2019–2022)**  
-  - Engineered real-time multilingual platform (26 languages)
-  - Integrated Azure NLP + Speechly for sub-second transcription
+  - Took part in engineering a real-time multilingual platform (26 languages)
+  - Helped to integrate Azure NLP + Speechly web-app for sub-second transcription
   - Mentored junior devs and enforced testing best practices
 
 - **🛍 Lynk (2018–2019)**  
   - Revamped UI/UX increasing engagement by 50%
-  - Built matching algorithms and mobile-first designs
-  - Introduced design system adopted across 3 product teams
+  - Integrated payment solutions processing $10K+ monthly transactions
+  - Mentored junior devs and enforced testing best practices
 
 ---
 
